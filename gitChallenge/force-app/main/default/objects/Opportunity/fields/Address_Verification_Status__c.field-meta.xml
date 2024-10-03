@@ -3,8 +3,8 @@
     <fullName>Address_Verification_Status__c</fullName>
     <defaultValue>false</defaultValue>
     <externalId>false</externalId>
-    <label>Address Verification Status</label>
+    <label>Address Verification Status.</label>
     <trackFeedHistory>false</trackFeedHistory>
     <trackTrending>false</trackTrending>
     <type>Checkbox</type>
-</CustomField>
+</CustomField> 
